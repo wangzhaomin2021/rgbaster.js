@@ -1,3 +1,4 @@
+## 利用canvas进行计算图片主色，长期不维护，不建议使用了
 ![artboard](https://user-images.githubusercontent.com/659829/49244473-bd4ed580-f3c4-11e8-8bf2-498585148910.jpg)
 
 A dead simple, zero-dependency, promise-based javascript library for extracting the dominant color(s) from an image (in the browser).
